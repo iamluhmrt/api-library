@@ -1,6 +1,6 @@
 # API LIBRARY - NodeJS and MongoDB Functional Project
 
-## A fully functional project written in TypeScript to save read books
+## Functional project written in TypeScript to save read books
 
 This project is for you to save books you have already read. You can add, read, update, and delete book information and then storage the data in the database.
 
@@ -10,21 +10,16 @@ This project is for you to save books you have already read. You can add, read, 
 
 ## Preview: Interface and features
 
-<img src="/src/img/api-main-screen.png" alt="main screen" width="800" height=400 border="5">
-<img src="/src/img/api-edit.book-screen.png" alt="edit book screen" width="800" height=400 border="5">
-<img src="/src/img/api-new-book-screen.png" alt="new book screen" width="800" height=400 border="5">
-<img src="/src/img/api-show-book-screen.png" alt="show book screen" width="800" height=400 border="5">
+<img src="back/src/img/api-main-screen.png" alt="main screen">
+<img src="back/src/img/api-edit.book-screen.png" alt="edit book screen">
+<img src="back/src/img/api-new-book-screen.png" alt="new book screen">
+<img src="back/src/img/api-show-book-screen.png" alt="show book screen" >
 
 ## Library API usage instructions
 
 1. Clone this project
 2. Configure a connection to the dataBase in dbConnection at the end of the index.ts file
-3. Install mongoose \*required ^8.2.1 - npm i mongoose
-4. Install express \*required ^8.2.1 - npm i express
-5. Install cors \*required ^2.8.5 - npm i cors
-6. Install tsx \*required ^4.7.1 - npm instalar --save-dev tsx
-7. Install nodemon \*optinal ^3.1.0 - npm i nodemon
-8. Run the application in the console - npm run start
+3. Install all dependencies to run the project - npm i
 
 ## How to tweak this project for your own uses
 
