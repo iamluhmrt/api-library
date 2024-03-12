@@ -27,4 +27,4 @@ As this is a working API, I recommend you clone it and add more features to use 
 
 ## Find a bug?
 
-If you found an issue or would like to submit an improvement to this project, please submite an issue using the issues tab above. If you would liketo submite aPR with a fix, reference the issue you created.
+If you found an issue or would like to submit an improvement to this project, please submite an issue using the issues tab above. If you would like to submite a PR with a fix, reference the issue you created.
