@@ -11,7 +11,7 @@ This project is for you to save books you have already read. You can add, read, 
 ## Preview: Interface and features
 
 <img src="back/src/img/api-main-screen.png" alt="main screen">
-<img src="back/src/img/api-edit.book-screen.png" alt="edit book screen">
+
 
 
 ## Library API usage instructions
